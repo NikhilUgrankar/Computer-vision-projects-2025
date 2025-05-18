@@ -1,4 +1,4 @@
-# Computer-vision-projects-2025
+# Crop prediction project-2025
 Easy college and practice projects for machine learning aspirants 
 
 Install
